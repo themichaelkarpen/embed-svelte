@@ -1,5 +1,6 @@
 # Simple demo of svelte embedding
 
+This repo is originally created from  
 [Code and Life blog post](https://codeandlife.com/2021/03/06/easy-to-embed-svelte-components/)
 
 This repository contains sample code to create a simple
